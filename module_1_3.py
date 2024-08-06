@@ -8,4 +8,4 @@ age = age + 1
 print("New Age: " + str(age))
 print(age)
 is_student = True
-print('Is student ' + str(is_student))
+print('Is student: ' + str(is_student))
